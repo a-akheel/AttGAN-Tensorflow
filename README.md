@@ -1,3 +1,11 @@
+# Fork provenance
+
+This repository is a fork of [LynnHo/AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow), the upstream implementation of AttGAN. Credit for the paper, architecture, implementation and upstream examples belongs to its authors and contributors. The original README and license are retained below and in this repository.
+
+This documentation update does not claim an original model implementation, independently reproduced training results, or a new benchmark. Any future fork-specific experiment should identify its exact code changes, dataset, environment, command and measured results separately from the upstream work.
+
+---
+
 <p align="center"> <img src="./pics/first_view.png" width="36%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./pics/slide.png" width="54%"> </p>
 
 <p align="center"> <img src="./pics/style.jpg" width="92%"> </p>
